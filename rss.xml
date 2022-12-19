@@ -1,7 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mirror Night's Blog]]></title><description><![CDATA[ ]]></description><link>https://mirrorn.gitee.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 19 Dec 2022 01:52:16 GMT</lastBuildDate><atom:link href="https://mirrorn.gitee.io/rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Mirror Night]]></copyright><language><![CDATA[en]]></language><item><title><![CDATA[欢迎你！]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Mirror Night's Blog]]></title><description><![CDATA[ ]]></description><link>https://mirrorn.gitee.io</link><generator>RSS for Node</generator><lastBuildDate>Mon, 19 Dec 2022 02:02:12 GMT</lastBuildDate><atom:link href="https://mirrorn.gitee.io/rss.xml" rel="self" type="application/rss+xml"/><copyright><![CDATA[Mirror Night]]></copyright><language><![CDATA[en]]></language><item><title><![CDATA[欢迎你！]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
 <p>欢迎来到我的博客空间，大学期间学习软件工程，研究生跑去研究NLP，算是对工程和算法都有所涉猎，现在工作了又兜兜转转回到了开发，现在正在努力从前端技术开始努力成为一名全栈开发者，希望这个过程中的笔记能对你有所帮助，如果有问题，欢迎与我联系：iswuxing@163.com。程序的世界很奇妙，即使在方寸之间，我们亦能创造属于自己的小小世界，技术——连接你我。</p>
 </div>
-]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Intro/intro.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Intro/intro.html</guid><category><![CDATA[Introduction]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Wed, 22 Oct 2223 12:00:00 GMT</pubDate></item><item><title><![CDATA[Flex 布局]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
+]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Intro/intro.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Intro/intro.html</guid><category><![CDATA[Introduction]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Wed, 22 Oct 2223 12:00:00 GMT</pubDate></item><item><title><![CDATA[TypeScript 笔记二]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
+<p>Typescript 学习笔记二，主要内容为交叉类型、泛型、以及如何匹配协调项目中的 JS 和 TS 代码的相关内容，代码地址：</p>
+<blockquote>
+<p>https://github.com/MirrorN/Co-Learning/tree/main/Typescript</p>
+</blockquote>
+</div>
+]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Typescript/Typescript2.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Typescript/Typescript2.html</guid><category><![CDATA[Typescript]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Fri, 28 Oct 2022 12:00:00 GMT</pubDate></item><item><title><![CDATA[Flex 布局]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
 <p>记录 Flex 布局原理以及常用属性，并练习完成类似元素周期表排列的页面，代码地址：</p>
 <blockquote>
 <p>https://github.com/MirrorN/Front_Note/tree/master/Flex</p>
@@ -13,22 +19,28 @@
 <p>https://github.com/MirrorN/Front_Note/tree/master/ES6-Grammer/modularization</p>
 </blockquote>
 </div>
-]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/ES6/ES6.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/ES6/ES6.html</guid><category><![CDATA[ES6]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Fri, 14 Oct 2022 12:00:00 GMT</pubDate></item><item><title><![CDATA[Vue 笔记五]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
+]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/ES6/ES6.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/ES6/ES6.html</guid><category><![CDATA[ES6]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Fri, 14 Oct 2022 12:00:00 GMT</pubDate></item><item><title><![CDATA[TypeScript 笔记一]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
+<p>Typescript 学习笔记三，主要内容为 TS 基础类型以及新增类型的格式，代码地址：</p>
+<blockquote>
+<p>https://github.com/MirrorN/Co-Learning/main/Typescript</p>
+</blockquote>
+</div>
+]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Typescript/Typescript.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Typescript/Typescript.html</guid><category><![CDATA[Typescript]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Fri, 14 Oct 2022 12:00:00 GMT</pubDate></item><item><title><![CDATA[Vue 笔记五]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
 <p>Vue 学习笔记五，主要内容为路由相关知识，代码地址：</p>
 <blockquote>
 <p>https://github.com/MirrorN/Front_Note/tree/master/Vue</p>
 </blockquote>
 </div>
-]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Vue/vue5.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Vue/vue5.html</guid><category><![CDATA[Vue]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Mon, 10 Oct 2022 12:00:00 GMT</pubDate></item><item><title><![CDATA[Three.js 笔记]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
+]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Vue/vue5.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Vue/vue5.html</guid><category><![CDATA[Vue]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Mon, 10 Oct 2022 12:00:00 GMT</pubDate></item><item><title><![CDATA[VSCode 连接远程项目]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
+<p>记录 VSCode 连接远程服务器上的项目配置过程</p>
+</div>
+]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Skills/vscode%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Skills/vscode%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8.html</guid><category><![CDATA[Skills]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Wed, 05 Oct 2022 12:00:00 GMT</pubDate></item><item><title><![CDATA[Three.js 笔记]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
 <p>Three.js 学习笔记，主要内容为 three.js 程序的基本构成以及在实际开发中遇到的问题，代码地址：</p>
 <blockquote>
 <p>https://github.com/MirrorN/Co-Learning/Three-JS</p>
 </blockquote>
 </div>
-]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/ThreeJs/threejs.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/ThreeJs/threejs.html</guid><category><![CDATA[Three.js]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Wed, 05 Oct 2022 12:00:00 GMT</pubDate></item><item><title><![CDATA[VSCode 连接远程项目]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
-<p>记录 VSCode 连接远程服务器上的项目配置过程</p>
-</div>
-]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Skills/vscode%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Skills/vscode%E8%BF%9E%E6%8E%A5%E8%BF%9C%E7%A8%8B%E6%9C%8D%E5%8A%A1%E5%99%A8.html</guid><category><![CDATA[Skills]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Wed, 05 Oct 2022 12:00:00 GMT</pubDate></item><item><title><![CDATA[Vue 笔记四]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
+]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/ThreeJs/threejs.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/ThreeJs/threejs.html</guid><category><![CDATA[Three.js]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Wed, 05 Oct 2022 12:00:00 GMT</pubDate></item><item><title><![CDATA[Vue 笔记四]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
 <p>Vue 学习笔记四，主要内容为 DOM 元素操作、动态组件、插槽等，代码地址：</p>
 <blockquote>
 <p>https://github.com/MirrorN/Front_Note/tree/master/Vue</p>
@@ -101,13 +113,4 @@
 <p>https://github.com/MirrorN/Front_Note/tree/master/H5-CSS3</p>
 </blockquote>
 </div>
-]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/CSS/css2.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/CSS/css2.html</guid><category><![CDATA[CSS]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Sat, 03 Sep 2022 12:00:00 GMT</pubDate></item><item><title><![CDATA[CSS 笔记一]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
-<p>CSS学习笔记一，代码地址：</p>
-<blockquote>
-<p>https://github.com/MirrorN/Front_Note/tree/master/H5-CSS3</p>
-</blockquote>
-</div>
-]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/CSS/css1.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/CSS/css1.html</guid><category><![CDATA[CSS]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Fri, 02 Sep 2022 12:00:00 GMT</pubDate></item><item><title><![CDATA[前端项目命名规范]]></title><description><![CDATA[<div class="custom-block tip"><p class="custom-block-title">说明</p>
-<p>记录前端项目中通用明明规范，主要包括资源文件命名、CSS文件样式命名以及JS变量命名等</p>
-</div>
-]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Naming-Convention/var-name.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/Naming-Convention/var-name.html</guid><category><![CDATA[Naming Conventions]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Thu, 01 Sep 2022 12:00:00 GMT</pubDate></item></channel></rss>
+]]></description><link>https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/CSS/css2.html</link><guid isPermaLink="true">https://mirrorn.gitee.io/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/CSS/css2.html</guid><category><![CDATA[CSS]]></category><dc:creator><![CDATA[Mirror Night]]></dc:creator><pubDate>Sat, 03 Sep 2022 12:00:00 GMT</pubDate></item></channel></rss>
